@@ -35,12 +35,6 @@ https://nft-mint-83wa4r9h0-cvang9.vercel.app/
 ## 3)- COINMinter Dapp 
 - NFT holders will get 10 Coins free as a reward 
 - Others can mint coins of costs 0.001ETH per Coin
--------------------------
-## References
-
- - [WhiteList Dapp](https://www.learnweb3.io/tracks/sophomore/whitelist-dapp)
- - [NFTMinter Dapp](https://www.learnweb3.io/tracks/sophomore/nft-collection)
- - [COINMinter Dapp](https://www.learnweb3.io/tracks/sophomore/initial-coin-offering)
 
 
 ## Deployment
@@ -61,5 +55,11 @@ To deploy this project first clone it then change directory to my app then run
 COINMinter-Dapp :
 
 ![App Screenshot](https://gateway.pinata.cloud/ipfs/QmQzB4Dcf9sC4NShc3i7ejQccXmpWdbzUQGCR6CGQ2Yp4A)
+-------------------------
+## References
+
+ - [WhiteList Dapp](https://www.learnweb3.io/tracks/sophomore/whitelist-dapp)
+ - [NFTMinter Dapp](https://www.learnweb3.io/tracks/sophomore/nft-collection)
+ - [COINMinter Dapp](https://www.learnweb3.io/tracks/sophomore/initial-coin-offering)
 
 
